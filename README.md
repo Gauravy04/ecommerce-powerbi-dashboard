@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Data Analysis & Seller Performance Dashboard
+# 🛒Retail Sales & Customer Insights Dashboard
 
 ## 📊 Project Overview
 
